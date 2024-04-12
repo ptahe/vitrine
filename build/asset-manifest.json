@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vitrine/static/css/main.24c5c33a.css",
+    "main.js": "/vitrine/static/js/main.f9f43b44.js",
+    "index.html": "/vitrine/index.html",
+    "main.24c5c33a.css.map": "/vitrine/static/css/main.24c5c33a.css.map",
+    "main.f9f43b44.js.map": "/vitrine/static/js/main.f9f43b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c5c33a.css",
+    "static/js/main.f9f43b44.js"
+  ]
+}
